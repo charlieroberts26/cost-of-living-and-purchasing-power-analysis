@@ -79,13 +79,13 @@ Several states improved significantly after adjusting for cost of living.
 
 Kansas experienced the largest improvement, rising from 24th place in income to 7th place in purchasing power. Iowa improved from 18th to 2nd, Nebraska improved from 19th to 5th, and Illinois improved from 14th to 1st.
 
-State                Income Rank    Purchasing Power Rank    Change
-
-Kansas                    24                  7              +17
-Iowa                      18                  2              +16
-Nebraska                  19                  5              +14
-Illinois                  14                  1              +13
-North Dakota              21                 10              +11
+| State        | Income Rank | Purchasing Power Rank | Change |
+|--------------|-------------|----------------------|--------|
+| Kansas       | 24          | 7                    | +17    |
+| Iowa         | 18          | 2                    | +16    |
+| Nebraska     | 19          | 5                    | +14    |
+| Illinois     | 14          | 1                    | +13    |
+| North Dakota | 21          | 10                   | +11    |
 
 These findings indicate that relatively low living costs can substantially increase the effective value of household income.
 
@@ -93,14 +93,14 @@ These findings indicate that relatively low living costs can substantially incre
 
 Analysis of the individual cost-of-living categories showed that housing costs varied substantially more than any other category.
 
-Category               Range
-
-Housing                241.70
-Health                  68.00
-Utilities               63.70
-Transportation          52.00
-Miscellaneous           34.80
-Groceries               33.60
+| Category       | Range |
+|----------------|-------|
+| Housing        | 241.70 |
+| Health         | 68.00 |
+| Utilities      | 63.70 |
+| Transportation | 52.00 |
+| Miscellaneous  | 34.80 |
+| Groceries      | 33.60 |
 
 Housing costs exhibited substantially greater variation than any other cost category, with a range of 241.70 index points between the least and most expensive states. By comparison, the next largest range was health costs at 68.00.
 
